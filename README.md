@@ -1,2 +1,2 @@
 # vim-settings
-Custom vim config
+Custom vundle compatible vim config
